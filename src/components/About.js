@@ -1,4 +1,4 @@
-import rc from 'react';
+
 
 export default function About() {
     let myStyle = {
